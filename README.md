@@ -1,9 +1,5 @@
-### Here is What I Do!  👋
-
-
-### Hi there 👋, Huthaifa Alhamad
-#### Data Analyzing and visualizing
-![Data Analyzing and visualizing](https://app.powerbi.com/groups/me/dashboards/70e9bf2c-2641-4e8e-8f65-980544143173)
+  ### Hi there 👋 , ### Here is What I Do!
+![](https://www.swissbusinessacademy.com/wp-content/uploads/2021/03/data-.jpg)
 
 
 SQL | Python | Power BI | Tableau | Excel 
